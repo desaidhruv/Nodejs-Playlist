@@ -1,0 +1,17 @@
+body {
+    background: violet;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    padding:30px;
+
+}
+h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+p{
+    font-size: 16px;
+    text-align: center;
+}
